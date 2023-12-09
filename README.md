@@ -31,7 +31,8 @@ python runserver.py
 
 ## Sample Outputs
 
-![Google Stock Forecast](https://github.com/BhakeSart/Stock-Market-Predictor-using-Prophet/blob/main/assests/google.png)
+
+<img src="https://github.com/BhakeSart/Stock-Market-Predictor-using-Prophet/blob/main/assests/google.png" alt="Google Stock Forecast" width="50%"/>
 
 
 
