@@ -7,12 +7,12 @@ This project implements a stock market predictor using Facebook's Prophet librar
 
 ## Getting Started
 
-- Download or clone the repository from GitHub:
+<b>Download or clone the repository from GitHub:</b>
 ```
 git clone https://github.com/BhakeSart/Stock-Market-Predictor-using-Prophet.git
 ```
 
-- Create a virtual environment: 
+<b>Create a virtual environment:</b>
 ```
 conda create --name <env_name>
 ```
@@ -20,11 +20,11 @@ conda create --name <env_name>
 conda activate <env_name>
 ```
 
-- Install the necessary packages:
+<b>Install the necessary packages:</b>
 ```
 pip install -r requirements.txt
 ```
-- Run the project:
+<b>Run the project:</b>
 ```
 python runserver.py
 ```
